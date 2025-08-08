@@ -10,7 +10,7 @@ CGPA Calculator PWA is a progressive web app to help students log semester-wise 
 
 ## Installation
 
-This CGPA Calculator is a PWA (Progressive Web App), which means you can install it on your mobile device just like a native app. Updates roll out automatically.
+This CGPA Calculator is a PWA (Progressive Web App), which means you can install it on your mobile device just like a native app. Updates roll out automatically,
 
 ### Android
 
